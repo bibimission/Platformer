@@ -1,0 +1,7 @@
+
+50;spBas
+200;spBasor
+600;spBas
+1000;spCec
+1700;spBas
+1705;dj

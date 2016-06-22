@@ -1,0 +1,6 @@
+50;spCec
+200;spBasor
+600;spCec
+1000;spCec
+1500;spCec
+1501;dj
