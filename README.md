@@ -11,7 +11,7 @@ Pour utiliser ce magnifique programme, il faut construire l'arborescence suivant
   |
   *ws
   
-  Puis, de puis ws, lancer la commande suivante:
+  Puis, depuis ws, lancer la commande suivante:
     javac -d ../platformer ../class
   
   Puis, pour lancer le jeu:
